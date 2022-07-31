@@ -6,6 +6,7 @@
 - [Math Questions](https://github.com/SuperCALIENTITO/maths-gmod)
 - [Sandbox Level System](https://github.com/SuperCALIENTITO/sbox-levelsystem)
 - [DarkRP Level System](https://github.com/SuperCALIENTITO/darkrp-levelsystem)
+- [8Ball](https://github.com/SuperCALIENTITO/8ball)
 
 ## Administradores
 
