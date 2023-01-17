@@ -10,7 +10,7 @@
 
 ## Administradores
 
-- [SuperCALIENTITO](https://github.com/vicentefelipechile)
+- [vicentefelipechile](https://github.com/vicentefelipechile)
 - [Lugent](https://github.com/Lugent)
 
 ## Contacto
