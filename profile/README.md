@@ -2,15 +2,15 @@
 
 ## Proyectos
 
-- [Garry's Mod Stats](https://github.com/SuperCALIENTITO/gmodstats)
-- [Math Questions](https://github.com/SuperCALIENTITO/maths-gmod)
-- [Sandbox Level System](https://github.com/SuperCALIENTITO/sbox-levelsystem)
-- [DarkRP Level System](https://github.com/SuperCALIENTITO/darkrp-levelsystem)
-- [8Ball](https://github.com/SuperCALIENTITO/8ball)
+- [Garry's Mod Stats](https://github.com/vicentefelipechile/gmodstats)
+- [Math Questions](https://github.com/vicentefelipechile/maths-gmod)
+- [Sandbox Level System](https://github.com/vicentefelipechile/sbox-levelsystem)
+- [DarkRP Level System](https://github.com/vicentefelipechile/darkrp-levelsystem)
+- [8Ball](https://github.com/vicentefelipechile/8ball)
 
 ## Administradores
 
-- [SuperCALIENTITO](https://github.com/SuperCALIENTITO)
+- [SuperCALIENTITO](https://github.com/vicentefelipechile)
 - [Lugent](https://github.com/Lugent)
 
 ## Contacto
